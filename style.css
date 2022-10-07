@@ -1,0 +1,42 @@
+.heading {
+    color: white;
+    background-color: #283618;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+.small-heading {
+    color: white;
+    background-color: #606C38;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+li {
+    font-size: 20px;
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+/* index.html */
+.recipe {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+/* all recipes */
+.recipe-image {
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
